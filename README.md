@@ -8,3 +8,4 @@ Enjoy!
 
 0.0.2
 Recently added a Calculator module for python to this project, isn't of importance to Raspberian, but a fun side project that will likely be made into something pertaining to this project, compatible with all Python versions 3+.
+In order to run it, just run the script and do "from module import Calc" as anything you want, then use it!
