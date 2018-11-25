@@ -1,0 +1,6 @@
+# raspberianModifications
+This is a github that uses the open source features of Raspberian in order to improve user experience! Hoping to build my own Linux soon too, Blados!
+In order to use the basic modifications (only ones implemented as of now,) download this git with the "git" command on Raspberian (Debian Linux,)  to make your user/passw use the open.py file, and then try crontabbing or running the start.sh for us to protect your sudo.
+This as of now is an alternative to sudo -k, and doesn't even change the sources for Raspberian, but it is made to protect root commands.
+I am aware of an error in start.sh for the username/password input, hoping to fix soon!
+Enjoy!
