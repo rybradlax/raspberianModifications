@@ -1,0 +1,2 @@
+This is a file wiper for python in version 0.0.1, it is intended to allow this to wipe an entire directory of all of its files every 60 seconds, but until then files must manually be put into the remover.
+This permanently removes files on Linux and windows.. This command is similar to the sudo rm <file> command on Linux, and is ran root (sudo.) For Windows usage run the Windows file within file.
