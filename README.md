@@ -10,3 +10,6 @@ Enjoy!
 Recently added a Calculator module for python to this project, isn't of importance to Raspberian, but a fun side project that will likely be made into something pertaining to this project, compatible with all Python versions 3+.
 In order to run it, just run the script and do "from module import Calc" as anything you want, then use it!
 (I will start project wiki soon too by the way)
+
+0.0.3
+Added Python terminal commands to make file scripting and programming in Python easier, compatible with Linux & MacOS only as of now, will later incorporate Windows.Also added a file removal system and automatic file removal system on Windows, MacOS, and Linux.
