@@ -16,3 +16,5 @@ Added Python terminal commands to make file scripting and programming in Python 
 
 0.0.4
 Added a script used to zip or extract files, hoping to make it an executable with Windows IExpress soon.
+
+Thanks for visiting this repository!
