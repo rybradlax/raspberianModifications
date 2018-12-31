@@ -12,4 +12,7 @@ In order to run it, just run the script and do "from module import Calc" as anyt
 (I will start project wiki soon too by the way)
 
 0.0.3
-Added Python terminal commands to make file scripting and programming in Python easier, compatible with Linux & MacOS only as of now, will later incorporate Windows.Also added a file removal system and automatic file removal system on Windows, MacOS, and Linux.
+Added Python terminal commands to make file scripting and programming in Python easier, compatible with Linux & MacOS only as of now, will later incorporate Windows. Also added a file removal system and automatic file removal system on Windows, MacOS, and Linux.
+
+0.0.4
+Added a script used to zip or extract files, hoping to make it an executable with Windows IExpress soon.
