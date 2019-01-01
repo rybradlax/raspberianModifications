@@ -18,6 +18,6 @@ Added Python terminal commands to make file scripting and programming in Python 
 Added a script used to zip or extract files, hoping to make it an executable with Windows IExpress soon.
 
 0.0.5 
-Added an executable of the file extractor and zipper, to find the working go to fileExtractor > Dist > zipUnzip.exe
+Added an executable of the file extractor and zipper, to find the working go to fileExtractor > Dist > zipUnzip > zipUnzip.exe
 
 Thanks for visiting this repository!
