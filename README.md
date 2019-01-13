@@ -19,5 +19,7 @@ Added a script used to zip or extract files, hoping to make it an executable wit
 
 0.0.5 
 Added an executable of the file extractor and zipper, to find the working go to fileExtractor > Dist > zipUnzip > zipUnzip.exe
+0.0.6
+Added a Guess the Word for one player to make the word, and another to guess, there is only one try and the letter portion is a work in progress.
 
 Thanks for visiting this repository!
