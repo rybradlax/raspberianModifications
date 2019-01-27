@@ -22,5 +22,6 @@ Added an executable of the file extractor and zipper, to find the working go to 
 
 0.0.6
 Added a Guess the Word for one player to make the word, and another to guess, there is only one try and the letter portion is a work in progress.
-
+0.0.8
+Added an Atbash Cipher/Deciphering tool to cipher or decipher letters in the Atbash Cipher.
 Thanks for visiting this repository!
