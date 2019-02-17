@@ -29,3 +29,6 @@ Thanks for visiting this repository!
 
 0.0.9
 Added a Random Number Generator generating numbers in between 0 and 100000 every 10 seconds.
+
+0.1.0
+Added a password generator that generates passwords for the user and does not locally store any data.
