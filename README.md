@@ -32,3 +32,6 @@ Added a Random Number Generator generating numbers in between 0 and 100000 every
 
 0.1.0
 Added a password generator that generates passwords for the user and does not locally store any data.
+
+0.1.1
+Added a music player that plays music after a file pathway is provided.
