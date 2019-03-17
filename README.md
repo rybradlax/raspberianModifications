@@ -35,3 +35,6 @@ Added a password generator that generates passwords for the user and does not lo
 
 0.1.1
 Added a music player that plays music after a file pathway is provided.
+
+0.1.2
+Made the atbash cipher case insensitive.
