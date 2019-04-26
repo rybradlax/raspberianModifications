@@ -38,3 +38,6 @@ Added a music player that plays music after a file pathway is provided.
 
 0.1.2
 Made the atbash cipher case insensitive.
+
+0.1.3
+Error with case insensitivity, but improved the math code.
